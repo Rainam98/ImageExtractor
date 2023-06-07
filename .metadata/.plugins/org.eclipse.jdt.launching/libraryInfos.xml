@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="E:\Softwares\sts-4.14.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208" version="17.0.2"/>
+    <libraryInfo home="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre" version="1.8.0_362-362">
+        <bootpath>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\resources.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\rt.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\sunrsasign.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\jsse.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\jce.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\charsets.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\jfr.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\bin" version="1.8.0_362-362">
+        <bootpath>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\resources.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\rt.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\sunrsasign.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\jsse.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\jce.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\charsets.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\jfr.jar"/>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\UTD\Software-Maintenance\Assignment-1\Mango\openlogic-openjdk-8u362-b09-windows-64\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\Softwares\sts-4.14.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre" version="17.0.2"/>
+</libraryInfos>

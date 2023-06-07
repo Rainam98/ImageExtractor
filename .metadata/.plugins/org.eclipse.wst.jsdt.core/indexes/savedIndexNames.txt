@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\peronalProjects\ImageExtractor\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+19788394.index
+2495698408.index
+2165047007.index
+3141800619.index
+3435648363.index

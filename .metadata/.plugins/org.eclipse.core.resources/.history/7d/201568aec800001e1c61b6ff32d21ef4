@@ -1,0 +1,12 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Image Extractor</title>
+	</head>
+	<body>
+			<h1>Image Extractor</h1>
+			<br><br>
+			<a href = "/start">Start</a>
+	</body>
+</html>

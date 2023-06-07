@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Image Extractor</title>
+	</head>
+	<body>
+			<h1>Image Extractor</h1>
+			<br><br>
+			<button onclick="/start">Start</button>
+	</body>
+</html>

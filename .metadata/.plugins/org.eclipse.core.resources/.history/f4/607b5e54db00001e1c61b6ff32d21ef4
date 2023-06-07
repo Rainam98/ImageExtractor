@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Start</title>
+</head>
+<body>
+	<h1>Images will appear here</h1>
+	<img src="C:/Users/raina/OneDrive/Desktop/5).1.jpg" class="img-fluid"
+		alt="Responsive image">
+
+</body>
+</html>

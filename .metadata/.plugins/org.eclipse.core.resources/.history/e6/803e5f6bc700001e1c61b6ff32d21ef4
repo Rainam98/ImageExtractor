@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Image Extractor</title>
+	</head>
+	<body>
+			<h1>Image Extractor</h1>
+			<br><br>
+			<form action="/start">
+				<button type="submit">Start</button>
+			</form>
+	</body>
+</html>

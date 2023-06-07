@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+	integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+	crossorigin="anonymous">
+<title>Start</title>
+</head>
+<body>
+<br>
+<br>
+	<div style="width: 100%; margin-top: 2px " class = "text-center">
+		<button type="button" class="btn btn-success mr-4">Send to Excel</button>
+		<button type="button" class="btn btn-primary ml-4">Next Image</button>
+	</div>
+	<br><br>
+	<img src=${counter}".jpg" class="img-fluid" alt="Responsive image">
+
+</body>
+</html>
