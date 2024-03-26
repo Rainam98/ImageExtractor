@@ -12,7 +12,12 @@
 	<h1 class="mt-5">Welcome to Image Extractor</h1>
 	<br>
 	<br>
-	<a style="font-size: 30px" href="/start">Start</a>
+	<!--<a style="font-size: 30px" href="/start">Start</a>-->
+	<form action="/start" method="post">
+		<label>Input Folder : </label>
+		<input type="text" name="input">
+		<button type="submit">Start</button>
+	</form>
 	</div>
 </body>
 </html>
